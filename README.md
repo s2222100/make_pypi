@@ -1,3 +1,4 @@
-# make_pypi
+# original_janken
 
-pypiを作る
+You can make and play original rock paper scissors in python.
+First, you make class janken. 
