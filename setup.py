@@ -2,13 +2,11 @@ import setuputools
 with open('README.md', 'r', encoding='utf-8')as fh:
   long_description = fh.read()
 setuptools.setup(
-  #
-  name='good_name',
+  name='original_janken',
   version='0.01',
   author='Takeru_Wakatsuki',
   author_email='s2222100@stu.musashino-u.ac.jp',
-  #
-  description='how can',
+  description='You can make original rock paper scissors.',
   long_description=long_description,
   long_description_content_type='text/markdown',
   #
