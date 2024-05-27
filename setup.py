@@ -23,7 +23,7 @@ setuptools.setup(
   packages=setuptools.find_package(where='src'),
   python_requires='>=3.7',
   entry_points={
-    'console_points={
+    entry_points={
       'console_scripts':[
         'original_janken=original_janken:main'
     ]
