@@ -20,7 +20,7 @@ setuptools.setup(
   ],
   package_dir={'':'src'},
   py_modules=["original_janken"],
-  packages=setuptools.find_package(where='src'),
+  packages=setuptools.find_packages(where='src'),
   python_requires='>=3.7',
   entry_points={
       'console_scripts':[
