@@ -9,7 +9,7 @@ setuptools.setup(
   description='You can make original rock paper scissors.',
   long_description=long_description,
   long_description_content_type='text/markdown',
-  url='https://github.com/s2222100/orijinal_janken',
+  url='https://github.com/s2222100/original_janken',
   project_urls={
     "Bug Tracker":"https://github.com/s2222100/original_janken"
   },
